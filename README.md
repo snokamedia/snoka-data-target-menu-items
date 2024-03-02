@@ -3,6 +3,8 @@
 ## Description
 The **Snoka Extra Menu Attributes** plugin enhances WordPress navigation menus by allowing you to add `data-target` attributes and custom classes to individual menu items. This feature provides additional flexibility for theme developers and site administrators to tailor navigation menu behavior and styling.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/W7W1FDHVR)
+
 ## Features
 - **Data Target Attribute**: Add custom `data-target` attributes to your menu items for use in JavaScript interactions or CSS styling.
 - **Custom Class**: Append custom classes to your menu items to facilitate more specific styling or to target them with JavaScript.
